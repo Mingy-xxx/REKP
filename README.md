@@ -9,8 +9,7 @@ The MRE dataset comes from [MEGA](https://github.com/thecharm/Mega), many thanks
 
     You can download the **MRE dataset with detected visual objects** from [Google Drive](https://drive.google.com/file/d/1q5_5vnHJ8Hik1iLA9f5-6nstcvvntLrS/view?usp=sharing) or using following command:
     
-    ```
-    bash
+    ```    bash
     cd MRE
     wget 120.27.214.45/Data/re/multimodal/data.tar.gz
     tar -xzvf data.tar.gz  
